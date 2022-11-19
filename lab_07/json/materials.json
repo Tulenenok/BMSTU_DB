@@ -1,0 +1,220 @@
+{"mat_id":2,"code":"807351447","title":"Уголок 10*10*100","material":"Сталь Ст15","price":271,"min_quant":2,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":3,"code":"305055474","title":"Уголок 10*10*100","material":"Сталь Ст20","price":335,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":4,"code":"157321683","title":"Уголок 10*10*100","material":"Сталь Ст30","price":380,"min_quant":31,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":5,"code":"776908158","title":"Уголок 10*10*100","material":"Сталь Ст35","price":304,"min_quant":0,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":6,"code":"507467607","title":"Уголок 10*10*100","material":"Сталь Ст40","price":258,"min_quant":38,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":7,"code":"471786271","title":"Уголок 10*10*100","material":"Сталь Ст45","price":293,"min_quant":39,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":8,"code":"197596359","title":"Уголок 10*10*100","material":"Алюминий","price":402,"min_quant":7,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":9,"code":"285536672","title":"Уголок 10*10*100","material":"Железо оцинкованное","price":472,"min_quant":34,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":10,"code":"191598559","title":"Уголок 10*10*100","material":"Железо","price":321,"min_quant":0,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":11,"code":"701873775","title":"Уголок 10*10*100","material":"Бронза","price":188,"min_quant":37,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":12,"code":"582825289","title":"Уголок 10*10*200","material":"Сталь Ст10","price":269,"min_quant":18,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":13,"code":"508675477","title":"Уголок 10*10*200","material":"Сталь Ст15","price":171,"min_quant":49,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":14,"code":"907941012","title":"Уголок 10*10*200","material":"Сталь Ст20","price":137,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":15,"code":"567258910","title":"Уголок 10*10*200","material":"Сталь Ст30","price":262,"min_quant":18,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":16,"code":"166242699","title":"Уголок 10*10*200","material":"Сталь Ст35","price":321,"min_quant":6,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":17,"code":"671620068","title":"Уголок 10*10*200","material":"Сталь Ст40","price":273,"min_quant":17,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":18,"code":"74130424","title":"Уголок 10*10*200","material":"Сталь Ст45","price":195,"min_quant":20,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":19,"code":"269824276","title":"Уголок 10*10*200","material":"Алюминий","price":143,"min_quant":10,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":20,"code":"789556625","title":"Уголок 10*10*200","material":"Железо оцинкованное","price":314,"min_quant":19,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":21,"code":"922796507","title":"Уголок 10*10*200","material":"Железо","price":193,"min_quant":33,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":22,"code":"346412996","title":"Уголок 10*10*200","material":"Бронза","price":358,"min_quant":8,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":23,"code":"253906792","title":"Уголок 15*15*100","material":"Сталь Ст10","price":413,"min_quant":30,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":24,"code":"493345983","title":"Уголок 15*15*100","material":"Сталь Ст15","price":126,"min_quant":41,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":25,"code":"750081088","title":"Уголок 15*15*100","material":"Сталь Ст20","price":307,"min_quant":46,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":26,"code":"856715527","title":"Уголок 15*15*100","material":"Сталь Ст30","price":205,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":27,"code":"862665140","title":"Уголок 15*15*100","material":"Сталь Ст35","price":118,"min_quant":43,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":28,"code":"86490343","title":"Уголок 15*15*100","material":"Сталь Ст40","price":395,"min_quant":0,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":29,"code":"221781770","title":"Уголок 15*15*100","material":"Сталь Ст45","price":267,"min_quant":20,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":30,"code":"311845537","title":"Уголок 15*15*100","material":"Алюминий","price":402,"min_quant":33,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":31,"code":"516176624","title":"Уголок 15*15*100","material":"Железо оцинкованное","price":447,"min_quant":9,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":32,"code":"167008919","title":"Уголок 15*15*100","material":"Железо","price":362,"min_quant":11,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":33,"code":"343145309","title":"Уголок 15*15*100","material":"Бронза","price":459,"min_quant":4,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":34,"code":"356280323","title":"Уголок 15*15*200","material":"Сталь Ст10","price":260,"min_quant":35,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":35,"code":"538552306","title":"Уголок 15*15*200","material":"Сталь Ст15","price":259,"min_quant":38,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":36,"code":"140787342","title":"Уголок 15*15*200","material":"Сталь Ст20","price":253,"min_quant":33,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":37,"code":"640541341","title":"Уголок 15*15*200","material":"Сталь Ст30","price":168,"min_quant":37,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":38,"code":"850980115","title":"Уголок 15*15*200","material":"Сталь Ст35","price":176,"min_quant":7,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":39,"code":"4523314","title":"Уголок 15*15*200","material":"Сталь Ст40","price":370,"min_quant":24,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":40,"code":"82521680","title":"Уголок 15*15*200","material":"Сталь Ст45","price":276,"min_quant":25,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":41,"code":"515252","title":"Уголок 15*15*200","material":"Алюминий","price":238,"min_quant":39,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":42,"code":"315387384","title":"Уголок 15*15*200","material":"Железо оцинкованное","price":431,"min_quant":41,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":43,"code":"812865287","title":"Уголок 15*15*200","material":"Железо","price":448,"min_quant":33,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":44,"code":"424811498","title":"Уголок 15*15*200","material":"Бронза","price":415,"min_quant":9,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":45,"code":"799689688","title":"Уголок 20*20*100","material":"Сталь Ст10","price":168,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":46,"code":"718250626","title":"Уголок 20*20*100","material":"Сталь Ст15","price":229,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":47,"code":"624691907","title":"Уголок 20*20*100","material":"Сталь Ст20","price":260,"min_quant":15,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":48,"code":"446684579","title":"Уголок 20*20*100","material":"Сталь Ст30","price":423,"min_quant":21,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":49,"code":"464033964","title":"Уголок 20*20*100","material":"Сталь Ст35","price":117,"min_quant":6,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":50,"code":"85137676","title":"Уголок 20*20*100","material":"Сталь Ст40","price":133,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":51,"code":"329062661","title":"Уголок 20*20*100","material":"Сталь Ст45","price":236,"min_quant":45,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":52,"code":"361937936","title":"Уголок 20*20*100","material":"Алюминий","price":421,"min_quant":28,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":53,"code":"792310085","title":"Уголок 20*20*100","material":"Железо оцинкованное","price":327,"min_quant":29,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":54,"code":"16479916","title":"Уголок 20*20*100","material":"Железо","price":327,"min_quant":25,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":55,"code":"316513836","title":"Уголок 20*20*100","material":"Бронза","price":473,"min_quant":34,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":56,"code":"480531478","title":"Уголок 20*20*200","material":"Сталь Ст10","price":167,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":57,"code":"668542269","title":"Уголок 20*20*200","material":"Сталь Ст15","price":437,"min_quant":16,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":58,"code":"179715939","title":"Уголок 20*20*200","material":"Сталь Ст20","price":464,"min_quant":18,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":59,"code":"53036150","title":"Уголок 20*20*200","material":"Сталь Ст30","price":426,"min_quant":29,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":60,"code":"432871384","title":"Уголок 20*20*200","material":"Сталь Ст35","price":165,"min_quant":35,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":61,"code":"172147036","title":"Уголок 20*20*200","material":"Сталь Ст40","price":310,"min_quant":1,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":62,"code":"152578685","title":"Уголок 20*20*200","material":"Сталь Ст45","price":233,"min_quant":16,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":63,"code":"252685984","title":"Уголок 20*20*200","material":"Алюминий","price":335,"min_quant":36,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":64,"code":"807173001","title":"Уголок 20*20*200","material":"Железо оцинкованное","price":323,"min_quant":49,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":65,"code":"571898792","title":"Уголок 20*20*200","material":"Железо","price":219,"min_quant":12,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":66,"code":"651797994","title":"Уголок 20*20*200","material":"Бронза","price":389,"min_quant":15,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":67,"code":"346431896","title":"Профиль 20*10*150","material":"Сталь Ст10","price":435,"min_quant":17,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":68,"code":"754193709","title":"Профиль 20*10*150","material":"Сталь Ст15","price":221,"min_quant":38,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":69,"code":"261195962","title":"Профиль 20*10*150","material":"Сталь Ст20","price":472,"min_quant":45,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":70,"code":"182465703","title":"Профиль 20*10*150","material":"Сталь Ст30","price":190,"min_quant":30,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":71,"code":"938001448","title":"Профиль 20*10*150","material":"Сталь Ст35","price":323,"min_quant":46,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":72,"code":"161478043","title":"Профиль 20*10*150","material":"Сталь Ст40","price":480,"min_quant":7,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":73,"code":"357131219","title":"Профиль 20*10*150","material":"Сталь Ст45","price":246,"min_quant":21,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":74,"code":"488038408","title":"Профиль 20*10*150","material":"Алюминий","price":334,"min_quant":4,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":75,"code":"524407959","title":"Профиль 20*10*150","material":"Железо оцинкованное","price":458,"min_quant":35,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":76,"code":"890859235","title":"Профиль 20*10*150","material":"Железо","price":366,"min_quant":4,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":77,"code":"444658325","title":"Профиль 20*10*150","material":"Бронза","price":288,"min_quant":48,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":78,"code":"869427907","title":"Профиль 20*20*150","material":"Сталь Ст10","price":330,"min_quant":15,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":79,"code":"939500776","title":"Профиль 20*20*150","material":"Сталь Ст15","price":411,"min_quant":5,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":80,"code":"308312379","title":"Профиль 20*20*150","material":"Сталь Ст20","price":239,"min_quant":8,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":81,"code":"799687747","title":"Профиль 20*20*150","material":"Сталь Ст30","price":164,"min_quant":2,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":82,"code":"473857744","title":"Профиль 20*20*150","material":"Сталь Ст35","price":447,"min_quant":16,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":83,"code":"753296360","title":"Профиль 20*20*150","material":"Сталь Ст40","price":380,"min_quant":36,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":84,"code":"914356347","title":"Профиль 20*20*150","material":"Сталь Ст45","price":382,"min_quant":0,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":85,"code":"371231437","title":"Профиль 20*20*150","material":"Алюминий","price":251,"min_quant":39,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":86,"code":"30139154","title":"Профиль 20*20*150","material":"Железо оцинкованное","price":338,"min_quant":7,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":87,"code":"228012204","title":"Профиль 20*20*150","material":"Железо","price":144,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":88,"code":"306053139","title":"Профиль 20*20*150","material":"Бронза","price":122,"min_quant":40,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":89,"code":"842757238","title":"Профиль 20*20*200","material":"Сталь Ст10","price":164,"min_quant":41,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":90,"code":"226747566","title":"Профиль 20*20*200","material":"Сталь Ст15","price":101,"min_quant":15,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":91,"code":"393638855","title":"Профиль 20*20*200","material":"Сталь Ст20","price":251,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":92,"code":"968254524","title":"Профиль 20*20*200","material":"Сталь Ст30","price":123,"min_quant":36,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":93,"code":"226701329","title":"Профиль 20*20*200","material":"Сталь Ст35","price":331,"min_quant":15,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":94,"code":"992556443","title":"Профиль 20*20*200","material":"Сталь Ст40","price":360,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":95,"code":"361550065","title":"Профиль 20*20*200","material":"Сталь Ст45","price":148,"min_quant":11,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":96,"code":"502098045","title":"Профиль 20*20*200","material":"Алюминий","price":386,"min_quant":27,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":97,"code":"673627160","title":"Профиль 20*20*200","material":"Железо оцинкованное","price":385,"min_quant":26,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":98,"code":"347312527","title":"Профиль 20*20*200","material":"Железо","price":104,"min_quant":11,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":99,"code":"144064889","title":"Профиль 20*20*200","material":"Бронза","price":461,"min_quant":42,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":100,"code":"852855358","title":"Профиль 40*20*200","material":"Сталь Ст10","price":361,"min_quant":12,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":101,"code":"498807751","title":"Профиль 40*20*200","material":"Сталь Ст15","price":120,"min_quant":37,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":102,"code":"239912453","title":"Профиль 40*20*200","material":"Сталь Ст20","price":306,"min_quant":16,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":103,"code":"991039478","title":"Профиль 40*20*200","material":"Сталь Ст30","price":427,"min_quant":39,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":104,"code":"897087917","title":"Профиль 40*20*200","material":"Сталь Ст35","price":480,"min_quant":41,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":105,"code":"844047689","title":"Профиль 40*20*200","material":"Сталь Ст40","price":423,"min_quant":28,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":106,"code":"887267937","title":"Профиль 40*20*200","material":"Сталь Ст45","price":387,"min_quant":0,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":107,"code":"591480607","title":"Профиль 40*20*200","material":"Алюминий","price":239,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":108,"code":"390666314","title":"Профиль 40*20*200","material":"Железо оцинкованное","price":374,"min_quant":9,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":109,"code":"901349806","title":"Профиль 40*20*200","material":"Железо","price":324,"min_quant":37,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":110,"code":"565022753","title":"Профиль 40*20*200","material":"Бронза","price":338,"min_quant":7,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":111,"code":"418836854","title":"Лист 100*100*5","material":"Сталь Ст10","price":151,"min_quant":27,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":112,"code":"764561284","title":"Лист 100*100*5","material":"Сталь Ст15","price":403,"min_quant":48,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":113,"code":"227571083","title":"Лист 100*100*5","material":"Сталь Ст20","price":249,"min_quant":1,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":114,"code":"583611533","title":"Лист 100*100*5","material":"Сталь Ст30","price":428,"min_quant":36,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":115,"code":"23037681","title":"Лист 100*100*5","material":"Сталь Ст35","price":415,"min_quant":37,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":116,"code":"584415884","title":"Лист 100*100*5","material":"Сталь Ст40","price":394,"min_quant":31,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":117,"code":"375501000","title":"Лист 100*100*5","material":"Сталь Ст45","price":169,"min_quant":31,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":118,"code":"309126985","title":"Лист 100*100*5","material":"Алюминий","price":274,"min_quant":31,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":119,"code":"190514272","title":"Лист 100*100*5","material":"Железо оцинкованное","price":491,"min_quant":27,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":120,"code":"662759941","title":"Лист 100*100*5","material":"Железо","price":481,"min_quant":29,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":121,"code":"856834726","title":"Лист 100*100*5","material":"Бронза","price":358,"min_quant":39,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":122,"code":"558188523","title":"Лист 100*200*5","material":"Сталь Ст10","price":192,"min_quant":1,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":123,"code":"605350617","title":"Лист 100*200*5","material":"Сталь Ст15","price":461,"min_quant":33,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":124,"code":"829329246","title":"Лист 100*200*5","material":"Сталь Ст20","price":293,"min_quant":23,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":125,"code":"336302671","title":"Лист 100*200*5","material":"Сталь Ст30","price":160,"min_quant":28,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":126,"code":"509482249","title":"Лист 100*200*5","material":"Сталь Ст35","price":127,"min_quant":47,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":127,"code":"950376873","title":"Лист 100*200*5","material":"Сталь Ст40","price":211,"min_quant":25,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":128,"code":"225304120","title":"Лист 100*200*5","material":"Сталь Ст45","price":235,"min_quant":31,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":129,"code":"933756924","title":"Лист 100*200*5","material":"Алюминий","price":236,"min_quant":49,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":130,"code":"431868200","title":"Лист 100*200*5","material":"Железо оцинкованное","price":239,"min_quant":10,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":131,"code":"286431433","title":"Лист 100*200*5","material":"Железо","price":358,"min_quant":36,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":132,"code":"691382629","title":"Лист 100*200*5","material":"Бронза","price":400,"min_quant":7,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":133,"code":"582304226","title":"Лист 200*200*5","material":"Сталь Ст10","price":161,"min_quant":36,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":134,"code":"29927916","title":"Лист 200*200*5","material":"Сталь Ст15","price":482,"min_quant":43,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":135,"code":"41181992","title":"Лист 200*200*5","material":"Сталь Ст20","price":157,"min_quant":27,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":136,"code":"367456054","title":"Лист 200*200*5","material":"Сталь Ст30","price":250,"min_quant":17,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":137,"code":"555613973","title":"Лист 200*200*5","material":"Сталь Ст35","price":358,"min_quant":42,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":138,"code":"52551455","title":"Лист 200*200*5","material":"Сталь Ст40","price":184,"min_quant":46,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":139,"code":"25810255","title":"Лист 200*200*5","material":"Сталь Ст45","price":305,"min_quant":33,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":140,"code":"13255631","title":"Лист 200*200*5","material":"Алюминий","price":448,"min_quant":17,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":141,"code":"536319235","title":"Лист 200*200*5","material":"Железо оцинкованное","price":439,"min_quant":42,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":142,"code":"998640155","title":"Лист 200*200*5","material":"Железо","price":346,"min_quant":22,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":143,"code":"578528481","title":"Лист 200*200*5","material":"Бронза","price":164,"min_quant":42,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":144,"code":"794690593","title":"Лист 200*400*5","material":"Сталь Ст10","price":319,"min_quant":38,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":145,"code":"949967309","title":"Лист 200*400*5","material":"Сталь Ст15","price":220,"min_quant":9,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":146,"code":"286227195","title":"Лист 200*400*5","material":"Сталь Ст20","price":359,"min_quant":19,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":147,"code":"208310768","title":"Лист 200*400*5","material":"Сталь Ст30","price":198,"min_quant":49,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":148,"code":"359700014","title":"Лист 200*400*5","material":"Сталь Ст35","price":335,"min_quant":14,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":149,"code":"735265874","title":"Лист 200*400*5","material":"Сталь Ст40","price":232,"min_quant":33,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":150,"code":"127295316","title":"Лист 200*400*5","material":"Сталь Ст45","price":174,"min_quant":46,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":151,"code":"980385447","title":"Лист 200*400*5","material":"Алюминий","price":332,"min_quant":49,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":152,"code":"950291770","title":"Лист 200*400*5","material":"Железо оцинкованное","price":374,"min_quant":23,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":153,"code":"261409526","title":"Лист 200*400*5","material":"Железо","price":211,"min_quant":46,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":154,"code":"570297197","title":"Лист 200*400*5","material":"Бронза","price":462,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":155,"code":"346949306","title":"Труба D10 L2000","material":"Сталь Ст10","price":124,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":156,"code":"64043716","title":"Труба D10 L2000","material":"Сталь Ст15","price":101,"min_quant":34,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":157,"code":"737060730","title":"Труба D10 L2000","material":"Сталь Ст20","price":101,"min_quant":15,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":158,"code":"735860680","title":"Труба D10 L2000","material":"Сталь Ст30","price":296,"min_quant":14,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":159,"code":"182228698","title":"Труба D10 L2000","material":"Сталь Ст35","price":359,"min_quant":48,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":160,"code":"788694039","title":"Труба D10 L2000","material":"Сталь Ст40","price":471,"min_quant":35,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":161,"code":"183098120","title":"Труба D10 L2000","material":"Сталь Ст45","price":428,"min_quant":37,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":162,"code":"178387567","title":"Труба D10 L2000","material":"Алюминий","price":242,"min_quant":38,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":163,"code":"430425888","title":"Труба D10 L2000","material":"Железо оцинкованное","price":389,"min_quant":11,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":164,"code":"387548826","title":"Труба D10 L2000","material":"Железо","price":199,"min_quant":13,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":165,"code":"862534458","title":"Труба D10 L2000","material":"Бронза","price":413,"min_quant":25,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":166,"code":"557231395","title":"Труба D15 L2000","material":"Сталь Ст10","price":261,"min_quant":41,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":167,"code":"18253962","title":"Труба D15 L2000","material":"Сталь Ст15","price":317,"min_quant":5,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":168,"code":"11286757","title":"Труба D15 L2000","material":"Сталь Ст20","price":161,"min_quant":20,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":169,"code":"976045245","title":"Труба D15 L2000","material":"Сталь Ст30","price":437,"min_quant":48,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":170,"code":"395865809","title":"Труба D15 L2000","material":"Сталь Ст35","price":204,"min_quant":12,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":171,"code":"520676799","title":"Труба D15 L2000","material":"Сталь Ст40","price":104,"min_quant":25,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":172,"code":"553342392","title":"Труба D15 L2000","material":"Сталь Ст45","price":468,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":173,"code":"440338195","title":"Труба D15 L2000","material":"Алюминий","price":405,"min_quant":7,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":174,"code":"645932352","title":"Труба D15 L2000","material":"Железо оцинкованное","price":314,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":175,"code":"499135551","title":"Труба D15 L2000","material":"Железо","price":341,"min_quant":3,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":176,"code":"651400902","title":"Труба D15 L2000","material":"Бронза","price":478,"min_quant":13,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":177,"code":"669132983","title":"Труба D20 L2000","material":"Сталь Ст10","price":494,"min_quant":27,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":178,"code":"55282238","title":"Труба D20 L2000","material":"Сталь Ст15","price":384,"min_quant":32,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":179,"code":"455956404","title":"Труба D20 L2000","material":"Сталь Ст20","price":274,"min_quant":49,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":180,"code":"666638761","title":"Труба D20 L2000","material":"Сталь Ст30","price":292,"min_quant":6,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":181,"code":"472809516","title":"Труба D20 L2000","material":"Сталь Ст35","price":405,"min_quant":35,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":182,"code":"965103895","title":"Труба D20 L2000","material":"Сталь Ст40","price":320,"min_quant":14,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":183,"code":"966798954","title":"Труба D20 L2000","material":"Сталь Ст45","price":417,"min_quant":38,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":184,"code":"145196639","title":"Труба D20 L2000","material":"Алюминий","price":311,"min_quant":8,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":185,"code":"482822155","title":"Труба D20 L2000","material":"Железо оцинкованное","price":413,"min_quant":49,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":186,"code":"130954482","title":"Труба D20 L2000","material":"Железо","price":183,"min_quant":6,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":187,"code":"764918013","title":"Труба D20 L2000","material":"Бронза","price":205,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":188,"code":"782971991","title":"Труба D40 L4000","material":"Сталь Ст10","price":130,"min_quant":11,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":189,"code":"890766471","title":"Труба D40 L4000","material":"Сталь Ст15","price":236,"min_quant":20,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":190,"code":"475989699","title":"Труба D40 L4000","material":"Сталь Ст20","price":361,"min_quant":42,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":191,"code":"356676693","title":"Труба D40 L4000","material":"Сталь Ст30","price":349,"min_quant":13,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":192,"code":"275170506","title":"Труба D40 L4000","material":"Сталь Ст35","price":182,"min_quant":29,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":193,"code":"769523833","title":"Труба D40 L4000","material":"Сталь Ст40","price":404,"min_quant":30,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":194,"code":"341913680","title":"Труба D40 L4000","material":"Сталь Ст45","price":302,"min_quant":37,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":195,"code":"147161572","title":"Труба D40 L4000","material":"Алюминий","price":172,"min_quant":43,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":196,"code":"636157503","title":"Труба D40 L4000","material":"Железо оцинкованное","price":328,"min_quant":31,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":197,"code":"815198756","title":"Труба D40 L4000","material":"Железо","price":184,"min_quant":11,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":198,"code":"804146086","title":"Труба D40 L4000","material":"Бронза","price":112,"min_quant":39,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":199,"code":"47915518","title":"Труба D45 L5000","material":"Сталь Ст10","price":475,"min_quant":18,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":200,"code":"623001026","title":"Труба D45 L5000","material":"Сталь Ст15","price":177,"min_quant":36,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":201,"code":"13602269","title":"Труба D45 L5000","material":"Сталь Ст20","price":279,"min_quant":36,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":202,"code":"962431424","title":"Труба D45 L5000","material":"Сталь Ст30","price":365,"min_quant":31,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":203,"code":"125717729","title":"Труба D45 L5000","material":"Сталь Ст35","price":162,"min_quant":28,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":204,"code":"787701334","title":"Труба D45 L5000","material":"Сталь Ст40","price":388,"min_quant":22,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":205,"code":"493824494","title":"Труба D45 L5000","material":"Сталь Ст45","price":162,"min_quant":10,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":206,"code":"806591095","title":"Труба D45 L5000","material":"Алюминий","price":225,"min_quant":44,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":207,"code":"32004212","title":"Труба D45 L5000","material":"Железо оцинкованное","price":229,"min_quant":42,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":208,"code":"418451347","title":"Труба D45 L5000","material":"Железо","price":479,"min_quant":27,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":209,"code":"683977739","title":"Труба D45 L5000","material":"Бронза","price":322,"min_quant":38,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":210,"code":"289345841","title":"Труба D50 L5000","material":"Сталь Ст10","price":293,"min_quant":19,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":211,"code":"726936563","title":"Труба D50 L5000","material":"Сталь Ст15","price":241,"min_quant":24,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":212,"code":"209375912","title":"Труба D50 L5000","material":"Сталь Ст20","price":394,"min_quant":46,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":213,"code":"830481486","title":"Труба D50 L5000","material":"Сталь Ст30","price":446,"min_quant":19,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":214,"code":"614112484","title":"Труба D50 L5000","material":"Сталь Ст35","price":228,"min_quant":6,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":215,"code":"380290473","title":"Труба D50 L5000","material":"Сталь Ст40","price":111,"min_quant":33,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":216,"code":"921047842","title":"Труба D50 L5000","material":"Сталь Ст45","price":236,"min_quant":42,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":217,"code":"982298516","title":"Труба D50 L5000","material":"Алюминий","price":443,"min_quant":37,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":218,"code":"465405876","title":"Труба D50 L5000","material":"Железо оцинкованное","price":381,"min_quant":9,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":219,"code":"293249776","title":"Труба D50 L5000","material":"Железо","price":153,"min_quant":18,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":220,"code":"560681176","title":"Труба D50 L5000","material":"Бронза","price":382,"min_quant":7,"is_deleted":"N","inp_date":"2022-10-27"}
+{"mat_id":1,"code":"525643912","title":"Уголок 10*10*100","material":"Сталь Ст10","price":297,"min_quant":40,"is_deleted":"N","inp_date":"2022-10-27"}
