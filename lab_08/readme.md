@@ -86,7 +86,13 @@
    ![img_4.png](img/img_41.png)
    ![img_5.png](img/img_51.png)
     (в папке nifi_tools лежит архив постгреса)
+
 13. Put
    ![img_6.png](img/img_61.png)
+
 14. Важно! Когда вы настраиваете любую связь не забывайте прописывать, что хотите передавать
    ![img_7.png](img/img_71.png)
+
+15. Итог 
+![img.png](img/12.png)
+![img_1.png](img/13.png)
